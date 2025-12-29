@@ -141,8 +141,8 @@ Example datasets:
 ## 👨‍💻 Team / Author
 
 * **Project Name:** Movie Recommendation System
-* **Developed By:** *Your Name*
-* **Course / College:** *Your College Name*
+* **Developed By:** Kushagra Jaiswal
+
 
 ---
 
